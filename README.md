@@ -3,7 +3,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
-## ★ Devploit . version 2.3
+## ★ Devploit . version 2.3 | <img src="https://img.shields.io/badge/i-Devploit-red.svg">
 
    Author: Joker-Security [ dev-labs ]
 
