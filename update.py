@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 #
 # author : Joker-Security 
-# Tested on Kali Linux / lxle-linux
+# Tested on Kali Linux / Parrot Os / Ubuntu/ Arco Linux / Archman 
 # Simple script for install Devploit
 
 __author__ = "Joker-Security"
@@ -19,7 +19,7 @@ banner = '''
 ██║  ██║█████╗  ██║   ██║██████╔╝██║     ██║   ██║██║   ██║   
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔═══╝ ██║     ██║   ██║██║   ██║   
 ██████╔╝███████╗ ╚████╔╝ ██║     ███████╗╚██████╔╝██║   ██║   
-╚═════╝ ╚══════╝  ╚═══╝  ╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝v2.3  
+╚═════╝ ╚══════╝  ╚═══╝  ╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝v3.6 
                 Update Script for Devploit
            Created by Joker-Security [dev-labs] 
 
