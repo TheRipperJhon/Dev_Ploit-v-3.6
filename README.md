@@ -52,7 +52,7 @@ Devploit
 
 ## ★ Screenshot:
 
-<img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/J2dQGfU.png" width="23%"></img> <img src="https://i.imgur.com/n85V8qw.png" width="23%"></img> 
+<img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/ha7mhPV.png" width="23%"></img> <img src="https://i.imgur.com/n85V8qw.png" width="23%"></img> 
 
 
 ## ★ video tutorial:
@@ -60,10 +60,9 @@ Devploit
 [![ Devploit - Information Gathering Tool (Version 2.3) ](https://i.ytimg.com/vi/jJ9cZ-IcLg4/hqdefault.jpg)](https://www.youtube.com/watch?v=jJ9cZ-IcLg4)
 
 ## ★ About:
+● Twitter : https://twitter.com/SecurityJoker
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-● Twitter : https://twitter.com/SecurityJoker
 
 ● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
 
