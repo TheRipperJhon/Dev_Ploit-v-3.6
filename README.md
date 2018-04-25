@@ -52,7 +52,7 @@ Devploit
 
 ## ★ Screenshot:
 
-<img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/vvgOEw1.png" width="23%"></img> <img src="https://i.imgur.com/B3rOz5B.png" width="23%"></img> 
+<img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/J2dQGfU.png" width="23%"></img> <img src="https://i.imgur.com/n85V8qw.png" width="23%"></img> 
 
 
 ## ★ video tutorial:
