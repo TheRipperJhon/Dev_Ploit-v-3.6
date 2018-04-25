@@ -3,7 +3,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
-## ★ Devploit . version 2.3 | <img src="https://img.shields.io/badge/i-Devploit-red.svg">
+## ★ Devploit . version 3.6 | <img src="https://img.shields.io/badge/i-Devploit-red.svg">
 
    Author: Joker-Security [ dev-labs ]
 
@@ -39,11 +39,13 @@ Devploit
 ● Zone Transfer
 ● HTTP Header
 ● Host Finder
+● Robots.txt
 ● IP-Locator
 ● Traceroute
 ● Host DNS Finder
 ● Revrse IP Lookup
 ● Collection Email
+● Subdomain Finder 
 ● Install & Update
 ● About Me 
 ● Exit
